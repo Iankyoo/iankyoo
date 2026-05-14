@@ -10,7 +10,7 @@
 
 langs:
 
-> Python, SQL, Dart, JavaScript.
+> Python, Java, Dart, SQL.
 
 <br>
 
