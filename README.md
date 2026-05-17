@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Ian Kiyoshi
 
-💻 Back-end developer focused on Python, APIs and AI  
+💻 Back-end developer focused on Java, Python, APIs and AI  
 🚀 Building intelligent and scalable systems  
 📚 Always learning about software architecture, cloud and AI  
 ☁️ Interested in AWS, distributed systems and fintech solutions  
