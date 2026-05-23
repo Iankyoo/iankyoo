@@ -29,7 +29,9 @@ tools:
 
 projects:
 
-- Bank Analyzer — AI-powered bank statement analysis API
+- Todo List - CRUD to learn (Python + FastAPI)
+- Bank Analyzer — AI-powered bank statement analysis API (Python + FastAPI)
+- CLI Finance (Java + Maven) 
 
 <br>
 
