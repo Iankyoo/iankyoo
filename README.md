@@ -6,13 +6,7 @@
 ☁️ Interested in AWS, distributed systems and fintech solutions  
 ✝️ "The fear of the Lord is the beginning of wisdom." — Proverbs 9:10
 
-<br>
-
-langs:
-
-> Python, Java, Dart, SQL.
-
-<br>
+<br> 
 
 tools:
 
