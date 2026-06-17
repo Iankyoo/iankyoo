@@ -10,7 +10,7 @@
 
 tools:
 
-- FastAPI — async backend development  
+- SpringBoot/FastAPI — backend development  
 - PostgreSQL — relational databases  
 - SQLAlchemy — ORM & async database integration  
 - Docker — containerization  
@@ -25,7 +25,8 @@ projects:
 
 - Todo List - CRUD to learn (Python + FastAPI)
 - Bank Analyzer — AI-powered bank statement analysis API (Python + FastAPI)
-- CLI Finance (Java + Maven) 
+- CLI Finance (Java + Maven)
+  
 
 <br>
 
