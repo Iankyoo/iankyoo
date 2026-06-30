@@ -9,7 +9,6 @@
   "coffee": "always ☕"
 }
 ```
-
 <br>
 
 ## About me
