@@ -1,24 +1,23 @@
-
 ```json
 {
   "name": "Ian Kiyoshi",
-  "role": "Back-end Developer",
+  "role": "Desenvolvedor Back-end",
   "focus": ["Java", "Spring Boot"],
-  "student": "Systems Analysis and Development (3rd semester)",
+  "student": "Análise e Desenvolvimento de Sistemas (3º semestre)",
   "languages": ["pt-BR", "ja", "en"],
   "coffee": "always ☕"
 }
 ```
 <br>
 
-## About me
+## Sobre mim
 
-I'm a back-end developer in training with a focus on Java and Spring Boot, building secure and well-structured APIs. I came from Python/FastAPI and moved into Java for its strict OOP and strong typing. Fluent in Japanese and proficient in technical English, I enjoy connecting clean code with real-world problem solving. Currently studying Systems Analysis and Development and looking for a back-end internship in fintech.
+Sou um desenvolvedor back-end em formação, com foco em Java e Spring Boot, construindo APIs seguras e bem estruturadas. Fluente em japonês e com proficiência em inglês técnico, gosto de unir código limpo à resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de um estágio back-end.
 <br>
 
-## TECH STACK
+## STACK DE TECNOLOGIAS
 
-### Core
+### Principal
 ![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -26,12 +25,12 @@ I'm a back-end developer in training with a focus on Java and Spring Boot, build
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Database & Infra
+### Banco de Dados & Infra
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 
-### Tools
+### Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -40,15 +39,15 @@ I'm a back-end developer in training with a focus on Java and Spring Boot, build
 
 <br>
 
-## PROJECTS
+## PROJETOS
 
-**[CLI Finance](https://github.com/Iankyoo/cli-finance-java)** — Command-line finance manager
+**[CLI Finance](https://github.com/Iankyoo/cli-finance-java)** — Gerenciador financeiro via linha de comando
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square&logo=lombok&logoColor=white)
 
-**[REST API](https://github.com/Iankyoo/rest-api)** — Restaurant management API
+**[REST API](https://github.com/Iankyoo/rest-api)** — API de gestão de restaurante
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -57,7 +56,7 @@ I'm a back-end developer in training with a focus on Java and Spring Boot, build
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**[Bank Analyzer](https://github.com/Iankyoo/bank-analyzer)** — AI-powered bank statement analysis API
+**[Bank Analyzer](https://github.com/Iankyoo/bank-analyzer)** — API assíncrona de análise de extratos bancários com IA
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -70,7 +69,7 @@ I'm a back-end developer in training with a focus on Java and Spring Boot, build
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 
-**[Todo List](https://github.com/Iankyoo/todo-list-fastapi)** — ASYNC CRUD REST API with auth, CI/CD and tests
+**[Todo List](https://github.com/Iankyoo/todo-list-fastapi)** — API REST CRUD assíncrona com autenticação, CI/CD e testes
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -84,7 +83,7 @@ I'm a back-end developer in training with a focus on Java and Spring Boot, build
 
 <br>
 
-## CONNECT
+## CONECTE-SE COMIGO
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/iankyoo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iankyoo)
