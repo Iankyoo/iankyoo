@@ -15,7 +15,7 @@
 Sou um desenvolvedor back-end em formação, com foco em Java e Spring Boot, construindo APIs seguras e bem estruturadas. Fluente em japonês e com proficiência em inglês técnico, gosto de unir código limpo à resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de um estágio back-end.
 <br>
 
-## STACK DE TECNOLOGIAS
+## STACK
 
 ### Principal
 ![Java](https://img.shields.io/badge/Java-21-007396?style=for-the-badge&logo=openjdk&logoColor=white)
