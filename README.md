@@ -12,7 +12,13 @@
 
 ## Sobre mim
 
-Sou um desenvolvedor back-end em formação, com foco em Java e Spring Boot, construindo APIs seguras e bem estruturadas. Fluente em japonês e com proficiência em inglês técnico, gosto de unir código limpo à resolução de problemas reais. Atualmente cursando Análise e Desenvolvimento de Sistemas e em busca de um estágio back-end.
+Olá, meu nome é Ian! Tenho 25 anos e sou um desenvolvedor backend em formação. 
+Sou fluente em japonês (N2/Avançado) e tenho proficiência em inglês técnico para leitura de documentação.
+Sou apaixonado por tecnologia pois nos permite tirar ideias inovadoras do papel e solucionar problemas reais de forma criativa.
+
+Um por-do-sol poderia ser apenas funcional, o sol poderia apenas nascer de um lado e se por do outro, mas também existe beleza nesse mecanismo!
+Aquele que estabeleceu os fundamentos do universo e programou as leis para funcionarem em harmonia fez tudo funcional e belo.
+Por essa razão, me inspiro em Deus em tudo que faço!
 <br>
 
 ## STACK
