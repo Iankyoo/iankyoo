@@ -18,7 +18,7 @@ Sou apaixonado por tecnologia pois nos permite tirar ideias inovadoras do papel 
 
 Um por-do-sol poderia ser apenas funcional, o sol poderia apenas nascer de um lado e se por do outro, mas também existe beleza nesse mecanismo!
 Aquele que estabeleceu os fundamentos do universo e programou as leis para funcionarem em harmonia fez tudo funcional e belo.
-Por essa razão, me inspiro em Deus em tudo que faço!
+Em admiração, me inspiro em Deus diáriamente em tudo que faço!
 <br>
 
 ## STACK
