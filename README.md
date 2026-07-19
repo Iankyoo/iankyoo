@@ -47,12 +47,6 @@ Em admiração, me inspiro em Deus diáriamente em tudo que faço!
 
 ## PROJETOS
 
-**[CLI Finance](https://github.com/Iankyoo/cli-finance-java)** — Gerenciador financeiro via linha de comando
-
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square&logo=lombok&logoColor=white)
-
 **[REST API](https://github.com/Iankyoo/rest-api)** — API de gestão de restaurante
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
@@ -86,6 +80,12 @@ Em admiração, me inspiro em Deus diáriamente em tudo que faço!
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
+
+**[CLI Finance](https://github.com/Iankyoo/cli-finance-java)** — Gerenciador financeiro via linha de comando
+
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=flat-square&logo=lombok&logoColor=white)
 
 <br>
 
