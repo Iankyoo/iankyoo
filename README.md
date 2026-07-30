@@ -12,13 +12,10 @@
 
 ## Sobre mim
 
-Olá, meu nome é Ian! Tenho 25 anos e sou um desenvolvedor backend em formação. 
-Sou fluente em japonês (N2/Avançado) e tenho proficiência em inglês técnico para leitura de documentação.
-Sou apaixonado por tecnologia pois nos permite tirar ideias inovadoras do papel e solucionar problemas reais de forma criativa.
+Olá, meu nome é Ian! Tenho 25 anos e sou estudante de Análise e Desenvolvimento de Sistemas, focado em desenvolvimento backend. Sou fluente em japonês e tenho me dedicado a aprimorar meu inglês, buscando me conectar com equipes e oportunidades globais. Sou apaixonado por tecnologia porque ela me permite resolver problemas reais com soluções criativas e bem construídas.
 
-Um por-do-sol poderia ser apenas funcional, o sol poderia apenas nascer de um lado e se por do outro, mas também existe beleza nesse mecanismo!
-Aquele que estabeleceu os fundamentos do universo e programou as leis para funcionarem em harmonia fez tudo funcional e belo.
-Em admiração, me inspiro em Deus diáriamente em tudo que faço!
+O sol poderia simplesmente nascer e se pôr, cumprindo sua função. Mas há beleza nesse mecanismo. Acredito que quem estabeleceu os fundamentos do universo programou as leis para funcionarem com harmonia e beleza. Me inspiro no Criador em tudo que faço.
+
 <br>
 
 ## STACK
