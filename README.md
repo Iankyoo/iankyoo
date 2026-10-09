@@ -10,7 +10,7 @@ Estudo Análise e Desenvolvimento de Sistemas na Faculdade Impacta e busco meu p
 
 Trabalho principalmente com **Java e Spring Boot**: APIs REST, autenticação com Spring Security e JWT, persistência com JPA/Hibernate e PostgreSQL, testes automatizados e Docker. Uso Python/FastAPI quando o problema pede.
 
-Aprendo construindo, e só publico o que consigo explicar: cada projeto abaixo tem testes e README com as decisões técnicas.
+Aprendo construindo, cada projeto abaixo tem testes e README com as decisões técnicas.
 
 ## Projetos em destaque
 
